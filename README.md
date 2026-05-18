@@ -81,7 +81,7 @@ src/
 
 ## Deployment
 Netlify:
-(Paste deployment link here)
+https://dashboard-ricky.netlify.app/
 
 ## Video Demo
 YouTube:
