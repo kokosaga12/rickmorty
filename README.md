@@ -85,4 +85,4 @@ https://dashboard-ricky.netlify.app/
 
 ## Video Demo
 YouTube:
-(Paste video link here)
+(https://youtu.be/vw8iOcobntM?si=ejPD2k-_MIyQaw47
